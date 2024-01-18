@@ -4,3 +4,21 @@ Paolo
 3 Lion
 4 Dog
 5 Dragon
+
+Andre
+1 - Snake
+2 - Frog
+3 - Monkey
+4 - Jaguar
+5 - Ant
+
+Liane
+1 - Dolphin
+2 - Whale
+3 - Crocodile
+4 - Turtle
+
+Andres Cortes
+- Lion
+- Cat
+
