@@ -1,3 +1,10 @@
+Paolo
+1 Wolf
+2 Eagle
+3 Lion
+4 Dog
+5 Dragon
+
 Andre
 1 - Snake
 2 - Frog
@@ -11,11 +18,7 @@ Liane
 3 - Crocodile
 4 - Turtle
 
-
-
-
-
-
 Andres Cortes
 - Lion
 - Cat
+
