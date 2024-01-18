@@ -8,8 +8,8 @@ Andre
 Laine
 1 - Dolphin
 2 - Whale
-3 - Turtle
-4 - Trout
+3 - Crocodile
+4 - Turtle
 
 
 
