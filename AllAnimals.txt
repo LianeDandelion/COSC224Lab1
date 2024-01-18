@@ -5,7 +5,11 @@ Andre
 4 - Jaguar
 5 - Ant
 
-
+Laine
+1 - Dolphin
+2 - Whale
+3 - Turtle
+4 - Trout
 
 
 
